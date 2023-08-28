@@ -1,0 +1,24 @@
+{
+  "publishers": [
+    {
+      "publisherCode": "P001",
+      "publisherName": "Publisher A",
+      "publisherAddress": "123 Main Street",
+      "books": [
+        {
+          "bookIsbn": "8956039847",
+          "bookName": "Book Z",
+          "bookPrice": 29.99,
+          "authors": [
+            {
+              "authorFirstName": "Jane",
+              "authorLastName": "Doe",
+              "authorPhone": "123-456-7890",
+              "authorEmail": "jane.doe@example.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

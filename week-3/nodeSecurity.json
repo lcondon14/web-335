@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "userID": "User1",
+            "userName": "user03",
+            "roles": [
+                {
+                    "roleId": "Role1",
+                    "roleName": "Admin",
+                    "permissions": [
+                        {
+                            "permissionId": "P001",
+                            "permissionName": "Manage Files"
+                        },
+
+                        {
+                            "permissionId": "P002",
+                            "permissionName": "Post Reviews"
+                        }
+                    ]
+                },
+                {
+                    "roleId": "Role2",
+                    "roleName": "Editor",
+                    "permissions": [
+                        {
+                            "permissionId": "P001",
+                            "permissionName": "Manage Files"
+                        },
+                        {
+                            "permissionId": "P003",
+                            "permissionName": "Edit Posts"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
