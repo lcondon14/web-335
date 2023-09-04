@@ -9,7 +9,7 @@ def subtract(x, y):
 
 # Defines division function
 def divide(x, y):
-    if y == 0;
+    if y == 0:
         return "Cannot divide by zero"
     return x / y
 
