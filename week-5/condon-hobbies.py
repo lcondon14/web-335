@@ -10,7 +10,7 @@ hobbies = ["Drawing", "Painting", "Reading" "Motorcycles", "Music"]
 
 # Print the list of hobbies
 print("My hobbies:")
-for hobby in hobbies;
+for hobby in hobbies:
     print("- " + hobby)
 
 # List of days
