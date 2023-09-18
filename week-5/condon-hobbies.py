@@ -1,6 +1,6 @@
 #---------------------------------------
 # Title: condon-hobbies.py
-# Author: Laeurel Condon
+# Author: Laurel Condon
 # Date: 09 September 2023
 # Description: Hobbies assignment 5.3
 #---------------------------------------
